@@ -27,10 +27,10 @@ Here's a walkthrough of implemented user stories:
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Interactions according to the gif (in this order):
--Adding todo items
--Removing todo items
--Editing todo items
--Saving the todo items
+* Adding todo items
+* Removing todo items
+* Editing todo items
+* Saving the todo items
 
 ## Notes
 
