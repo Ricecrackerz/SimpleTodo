@@ -26,9 +26,15 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
+Interactions according to the gif (in this order):
+-Adding todo items
+-Removing todo items
+-Editing todo items
+-Saving the todo items
+
 ## Notes
 
-Describe any challenges encountered while building the app.
+One of the major challenges in building this app was setting up Android Studio. This is simply because I have seperate drives and figuring out how to move Android SDK and Emulators from my C drive (limited space SSD) to my E drive (TB Hard Drive). This took many hours and fustrations and eventually solving the issue. There were times when Android studio would disregard the changes and create a new emulator back into my C drive. 
 
 ## License
 
